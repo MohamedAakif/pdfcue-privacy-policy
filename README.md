@@ -86,4 +86,4 @@ This policy may be updated when PDFcue's features, SDKs, data practices, or lega
 **Developer / publisher:** **AR Signal Labs**  
 **Email:** **arsignallabs@gmail.com**
 
-For privacy questions, requests, or concerns, email the address above. **Replace both placeholders with accurate contact details before you make this policy public or submit its URL to Google Play.**
+For privacy questions, requests, or concerns, email the address above. 
