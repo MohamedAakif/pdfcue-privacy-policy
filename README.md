@@ -2,8 +2,8 @@
 
 **Last updated:** 17 November 2026  
 **Application:** PDFcue (Android; package `com.pdfcue.app`)  
-**Developer / publisher:** **[REPLACE WITH THE DEVELOPER OR COMPANY NAME SHOWN IN GOOGLE PLAY]**  
-**Privacy contact:** **[REPLACE WITH YOUR WORKING SUPPORT EMAIL ADDRESS]**
+**Developer / publisher:** **AR Signal Labs**  
+**Privacy contact:** **arsignallabs@gmail.com**
 
 ## 1. Overview
 
@@ -83,7 +83,7 @@ This policy may be updated when PDFcue's features, SDKs, data practices, or lega
 ## 11. Contact
 
 **App:** PDFcue  
-**Developer / publisher:** **[REPLACE WITH YOUR GOOGLE PLAY DEVELOPER / COMPANY NAME]**  
-**Email:** **[REPLACE WITH YOUR WORKING SUPPORT EMAIL ADDRESS]**
+**Developer / publisher:** **AR Signal Labs**  
+**Email:** **arsignallabs@gmail.com**
 
 For privacy questions, requests, or concerns, email the address above. **Replace both placeholders with accurate contact details before you make this policy public or submit its URL to Google Play.**
